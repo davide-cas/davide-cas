@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Davide Casano 🤓</h1>
+<h1 align="center">Hi there! It's Davide 🤓</h1>
 <h3 align="center">Recent graduate @ University of Catania (Italy)</h3>
 
 ***
