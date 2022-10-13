@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! It's Davide 🤓</h1>
-<h3 align="center">Recent graduate @ University of Catania (Italy)</h3>
+<h3 align="center">MSc Data Science & AI @TU/e and @KTH</h3>
 
 ***
 
