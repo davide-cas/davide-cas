@@ -5,7 +5,6 @@
 
 <p align="center">
    <a href="https://github.com/davide-cas"> <img src="https://github-readme-stats.vercel.app/api?username=davide-cas&show_icons=true&count_private=true&theme=dracula&hide=prs,issues" alt="casano.davide@outlook.it"></a><br>
-  <a href="https://github.com/davide-cas"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davide-cas&layout=compact&theme=dracula&hide=scss,html,blade,css,javascript,shell" alt="casano.davide@outlook.it"></a>
 </p>
 
 ***
